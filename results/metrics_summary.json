@@ -1,0 +1,15 @@
+{
+  "total_prompts": 150,
+  "correct": 142,
+  "accuracy_percent": 94.67,
+  "precision_percent": 100.0,
+  "recall_percent": 100.0,
+  "f1_percent": 100.0,
+  "true_positives": 84,
+  "false_positives": 0,
+  "true_negatives": 66,
+  "false_negatives": 0,
+  "blocked": 84,
+  "allowed": 39,
+  "masked": 27
+}

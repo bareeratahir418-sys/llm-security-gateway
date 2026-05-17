@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+presidio-analyzer
+presidio-anonymizer
+langdetect
+deep-translator
+scikit-learn
+numpy
+pandas
+pyyaml
+spacy
